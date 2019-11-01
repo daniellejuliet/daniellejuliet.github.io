@@ -2,7 +2,7 @@
 baseurl: ''  #leave this alone
 url: "https://daniellejuliet.github.io"   #change this to yours
 title: Danielle Juliet # site's title
-description: "A website with blog posts and pages" # used by search engines
+description: "A website about books" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -24,7 +24,7 @@ twitter_username: DanielleJuliet3  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2019 Danielle Kimber"
+    "Copyright 2019 Danielle Kimber."
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout

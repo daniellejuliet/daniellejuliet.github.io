@@ -3,8 +3,8 @@ layout: post
 title: Here is a sample blog post
 date: 2019-10-19
 published: true
-header_feature_image: images/2019/07/ yellow flowers.jpg
-caption: "Juicy Tomatoes"
+header_feature_image:
+caption:
 tags:
   - Journalism
   - Life
