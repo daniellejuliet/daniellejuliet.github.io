@@ -3,7 +3,7 @@ layout: page
 title: My CV
 subtitle: #optional sub title to the post
 permalink: /my cv/
-header_feature_image:  /images/ leaves 1.jpg
+header_feature_image:  /images/leaves 2.jpg
 tags:
 published: true
 description:
