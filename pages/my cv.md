@@ -1,18 +1,17 @@
 ---
 layout: page
-title: My CV
+title: Contact
 subtitle: #optional sub title to the post
-permalink: /my cv/
+permalink: /Contact/
 header_feature_image:  /images/leaves 2.jpg
 tags:
 published: true
 description:
 ---
+If you are interested in working with Danielle please fell free to get in touch.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+You can contact her at:
+danielle.juliet@hotmail.co.uk
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Alternatively, reach out via Instagram:
+@daniellejulietk (link at the bottom of this page).

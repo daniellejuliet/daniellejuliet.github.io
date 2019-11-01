@@ -9,7 +9,7 @@ published: true
 description:
 ---
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
 
