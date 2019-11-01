@@ -16,7 +16,7 @@ gridlayout: true # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
-header_text: Welcome
+header_text:
 
 # find an image for your own home page and put it into the images folder
 header_feature_image: /images/book_by_window.jpg
