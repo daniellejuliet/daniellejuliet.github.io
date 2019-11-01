@@ -7,7 +7,7 @@ description: "A website about books" # used by search engines
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar:
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
